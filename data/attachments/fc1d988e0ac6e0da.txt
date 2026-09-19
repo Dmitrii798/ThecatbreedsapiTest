@@ -1,0 +1,4 @@
+Currency: EUR
+Min price: 89.0914 on 20.06.2024
+Threshold: 60.0
+Records: 248

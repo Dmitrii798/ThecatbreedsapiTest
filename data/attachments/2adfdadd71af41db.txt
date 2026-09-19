@@ -1,0 +1,4 @@
+Currency: AMD
+Min price: 21.2641 on 20.06.2024
+Threshold: 0.1
+Records: 248

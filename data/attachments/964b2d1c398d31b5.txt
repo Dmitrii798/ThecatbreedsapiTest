@@ -1,0 +1,4 @@
+Currency: AUD
+Min price: 55.113 on 20.06.2024
+Threshold: 30.0
+Records: 248

@@ -1,0 +1,4 @@
+Currency: USD
+Min price: 82.6282 on 20.06.2024
+Threshold: 50.0
+Records: 248

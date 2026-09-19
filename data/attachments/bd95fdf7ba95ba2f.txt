@@ -1,0 +1,4 @@
+Currency: AZN
+Min price: 48.6048 on 20.06.2024
+Threshold: 30.0
+Records: 248
