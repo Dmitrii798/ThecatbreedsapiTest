@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"e0b4e32aa21f0b14e16c8da6720eb8b9","name":"tests.homework_test_data","statistic":{"failed":0,"broken":0,"skipped":0,"passed":25,"unknown":0,"total":25}}]}
+{"total":1,"items":[{"uid":"e0b4e32aa21f0b14e16c8da6720eb8b9","name":"tests.homework_test_data","statistic":{"failed":0,"broken":2,"skipped":0,"passed":23,"unknown":0,"total":25}}]}
