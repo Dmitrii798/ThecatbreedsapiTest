@@ -1,0 +1,11 @@
+#pytest==9.1.1
+#requests==2.34.2
+#allure-pytest==2.16.0
+#python-dotenv==1.2.3
+pytest
+requests
+allure-pytest
+python-dotenv
+faker
+mimesis
+lxml

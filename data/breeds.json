@@ -1,0 +1,18 @@
+[
+  {
+    "id": "abys",
+    "name": "Abyssinian",
+    "origin": "Egypt",
+    "temperament": "Active, Energetic, Independent, Intelligent, Gentle",
+    "life_span": "14 - 15",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abyssinian_(cat)"
+  },
+  {
+    "id": "aege",
+    "name": "Aegean",
+    "origin": "Greece",
+    "temperament": "Affectionate, Social, Intelligent, Playful, Active",
+    "life_span": "9 - 12",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aegean_cat"
+  }
+]
