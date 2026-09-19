@@ -4,6 +4,8 @@ import pytest
 from pathlib import Path
 from dotenv import load_dotenv
 
+from generators.names_gen import generate_names
+
 # Явно указываем путь к .env
 env_path = Path(__file__).parent / ".env"
 load_dotenv(dotenv_path=env_path)
@@ -22,3 +24,17 @@ def headers() -> dict:
         "x-api-key": api_key,
         "Content-Type": "application/json"
     }
+
+
+@pytest.fixture(scope="session")
+def names_from_file():
+    """Читает имена из текстового файла (способ 1)."""
+    with open("data/names.txt", "r", encoding="utf-8") as f:
+        names = [line.strip() for line in f if line.strip()]
+    return names
+
+
+@pytest.fixture(scope="session")
+def names_generated():
+    """Генерирует имена на лету (способ 2)."""
+    return generate_names(100)
